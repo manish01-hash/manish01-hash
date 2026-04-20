@@ -1,6 +1,6 @@
 ## [*]  About Me
 
-[+] Cybersecurity professional and secure software developer with a strong foundation in **penetration testing, ethical hacking, malware analysis, and resilient system design**
+[+] Cybersecurity professional and secure software developer with a strong foundation in **penetration testing, ethical hacking, malware analysist**
 
 [+] Skilled in analyzing systems from both **attacker and defender perspectives**, with hands-on experience in **Linux environments, network security, and digital forensics**
 
