@@ -33,7 +33,7 @@
 * Penetration Testing & Web Application Security
 * Malware Analysis & Basic Reverse Engineering
 * Digital Forensics & Memory Analysis
-* Secure Coding & System Design
+* Secure Coding
 * Networking & Protocol Analysis
 
 ---
