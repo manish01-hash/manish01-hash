@@ -15,7 +15,9 @@
 ## 🎓 Education:
 
 🎓 **M.Sc in Cybersecurity & Digital Forensics** — Rashtriya Raksha University *(Ongoing)*
+
 🎓 **Minor in Computer Science** — IIT Mandi *(Completed)*
+
 🎓 **B.Sc in Computer Science** — Vidya Pratishthan's College, Maharashtra *(Completed)*
 
 ---
