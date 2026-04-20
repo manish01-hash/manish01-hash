@@ -91,9 +91,13 @@
 ## [*] Socials
 
 [+] LinkedIn: https://linkedin.com/in/manishdhaygude/
+
 [+] YouTube: https://youtube.com/@hack_eye
+
 [+] Discord: https://discord.gg/vNdHa83j
+
 [+] Instagram: https://instagram.com/_manish_003d
+
 [+] Email: mailto:manishdhaygude36@gmail.com
 
 ---
