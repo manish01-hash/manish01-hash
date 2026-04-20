@@ -1,6 +1,6 @@
-## [*]  About Me
+## [*] About Me
 
-[+] Cybersecurity professional and secure software developer with a strong foundation in **penetration testing, ethical hacking, malware analysist**
+[+] Cybersecurity professional and secure software developer with a strong foundation in **penetration testing, ethical hacking, malware analysis**
 
 [+] Skilled in analyzing systems from both **attacker and defender perspectives**, with hands-on experience in **Linux environments, network security, and digital forensics**
 
@@ -15,9 +15,7 @@
 ## [*] Education
 
 [+] **M.Sc in Cybersecurity & Digital Forensics** — Rashtriya Raksha University *(Ongoing)*
-
 [+] **Minor in Computer Science** — IIT Mandi *(Completed)*
-
 [+] **B.Sc in Computer Science** — Vidya Pratishthan's College, Maharashtra *(Completed)*
 
 ---
@@ -83,7 +81,6 @@
 ## [*] Certifications
 
 [+] Microsoft SC-900: Security, Compliance & Identity Fundamentals
-
 [+] Teachnook Cybersecurity Certification *(Cognizance'24, IIT Roorkee)*
 
 ---
@@ -91,13 +88,9 @@
 ## [*] Socials
 
 [+] LinkedIn: https://linkedin.com/in/manishdhaygude/
-
 [+] YouTube: https://youtube.com/@hack_eye
-
 [+] Discord: https://discord.gg/vNdHa83j
-
 [+] Instagram: https://instagram.com/_manish_003d
-
 [+] Email: mailto:manishdhaygude36@gmail.com
 
 ---
