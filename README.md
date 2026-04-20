@@ -1,4 +1,4 @@
-# 💫 About Me
+## [*]  About Me
 
 [+] Cybersecurity professional and secure software developer with a strong foundation in **penetration testing, ethical hacking, malware analysis, and resilient system design**
 
